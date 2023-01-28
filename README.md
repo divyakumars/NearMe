@@ -29,7 +29,7 @@ map.html
 <font color="red"><b>Thiruninravur</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Pavan Kumar A B (22001046)</b></font>
+<font color="blue"><b>Divya K (22001916)</b></font>
 </h3>
 <center>
 <img src="/static/images/map.png" usemap="#MyCity" height="905" width="1920">
